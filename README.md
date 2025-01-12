@@ -3,7 +3,7 @@ A UCL LaTeX thesis template. Easy to use for report, courseworks and dissertatio
 
 ## Author: 
 
-Mark1034
+Am1noas
 
 edit from https://www.overleaf.com/project/6362c73896242368d206c8ae
 
